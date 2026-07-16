@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+}
+.feature-item {
+    width: 318px;
+    border: 1px solid gray;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.highlight-box {
+    background-color:black;
+    color: white;
+}
+
+#first-feature h3 {
+    color: darkblue;
+}
+
+.feature-item h3 {
+    margin-bottom: 8px;
+}

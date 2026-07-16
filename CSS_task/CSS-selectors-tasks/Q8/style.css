@@ -1,0 +1,21 @@
+
+.box {
+    width: 404px;
+    background-color: #f5f5f5;
+    border-left: 6px solid gray;
+    padding: 20px;
+}
+
+.info-badge {
+    background-color: lightblue;
+    color: darkblue;
+    padding: 5px 12px;
+    border-radius: 20px;
+}
+
+.dismiss {
+    justify-self:end;
+    direction: flex;
+    margin-top: 20px;
+    padding: 8px 15px;
+}

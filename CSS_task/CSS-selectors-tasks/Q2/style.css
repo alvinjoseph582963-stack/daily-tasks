@@ -1,0 +1,16 @@
+/* MESSY ORIGINAL CODE */
+.login-btn,.signup-btn,.alert-box {
+  font-family: Arial, sans-serif;
+  padding: 10px;
+  border-radius: 4px;
+}
+.login-btn {
+  background-color: blue;
+}
+.signup-btn 
+ {
+  background-color: green;
+}
+.alert-box {
+  background-color: red;
+}
