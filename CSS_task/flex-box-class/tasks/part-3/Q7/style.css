@@ -1,0 +1,17 @@
+
+.responsive-nav {
+    display: flex;
+    flex-direction: column;
+}
+
+.responsive-nav a {
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+}
+    
+
+@media (min-width: 600px) {
+    .responsive-nav {
+        flex-direction: row;
+    }
+}
